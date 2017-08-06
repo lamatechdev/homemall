@@ -11,6 +11,7 @@
         <css src="css/bootstrap-theme.css" />
         <css src="css/bootstrap-addons.css" />
         <css src="css/bootstrap-magento.css" />
+        <css src="css/homemall.css" />
         <script src="js/main.js" type="text/javascript" />
     </head>
 

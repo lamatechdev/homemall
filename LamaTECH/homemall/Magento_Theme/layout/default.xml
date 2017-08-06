@@ -79,11 +79,11 @@
                 </container>
             </container>
         </referenceContainer>
-        <move element="cms_footer_links_container" destination="footer-links-container" />
+        <!--move element="cms_footer_links_container" destination="footer-links-container" />
         <move element="footer_links" destination="footer-links-container" />
         <move element="form.subscribe" destination="footer-tools-container" />
         <move element="store_switcher" destination="footer-tools-container" />
         <move element="copyright" destination="footer-legal-container" />
-        <move element="report.bugs" destination="footer-legal-container" />
+        <move element="report.bugs" destination="footer-legal-container" /-->
     </body>
 </page>
